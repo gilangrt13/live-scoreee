@@ -1,4 +1,4 @@
-# skor-bola-saldiii
+# live-scoree
 
 **Note: This app is just a UI and does not work properly.**
 
@@ -20,12 +20,12 @@ Follow these steps to set up and update the project:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/saldeww/skor-bola-saldiii
+    git clone https://github.com/gilangrt13/live-scoreee
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd skor-bola-saldiii
+    cd live-scoreee
     ```
 3. Check for outdated dependencies:
     ```sh
