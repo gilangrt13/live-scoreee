@@ -141,7 +141,6 @@ class _MatchListScreenState extends State<MatchListScreen> {
                       team2Logo: 'assets/images/psg.png',
                       score: '1 : 0',
                     ),
-
                     SizedBox(height: 10),
                     ElevatedButton(
                       onPressed: () {
@@ -159,8 +158,6 @@ class _MatchListScreenState extends State<MatchListScreen> {
                         ),
                       ),
                     ),
-
-                   
 
                   
                     SizedBox(width: 10),
