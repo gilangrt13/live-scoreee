@@ -52,10 +52,6 @@ Follow these steps to set up and update the project:
 - VSCode
 - ChatGPT OpenAI
 
-## Contributors
-
-- [Ricky Erlangga Handoko / Rozalyne](https://github.com/rozalyne/)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
